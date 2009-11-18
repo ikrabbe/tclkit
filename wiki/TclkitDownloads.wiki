@@ -12,14 +12,14 @@
 <tr><td colspan="5">*Windows*</td></tr>
 <tr><td>ix86</td>
   <td><a href="http://tclkit.googlecode.com/files/tclkit-8.4.17-win32.upx.exe">8.4.17</a></td>
-  <td><a href="http://tclkit.googlecode.com/files/tclkit-8.5.7-win32.upx.exe">8.5.7</a></td>
+  <td><a href="http://tclkit.googlecode.com/files/tclkit-8.5.8-win32.upx.exe">8.5.8</a></td>
   <td><a href="http://tclkit.googlecode.com/files/tclkitsh-8.4.17-win32.upx.exe">8.4.17</a></td>
-  <td><a href="http://tclkit.googlecode.com/files/tclkitsh-8.5.7-win32.upx.exe">8.5.7</a></td></tr>
+  <td><a href="http://tclkit.googlecode.com/files/tclkitsh-8.5.8-win32.upx.exe">8.5.8</a></td></tr>
 <tr><td>amd64</td>
   <td>8.4.17</td>
-  <td><a href="http://tclkit.googlecode.com/files/tclkit-8.5.7-win32-x86_64.zip">8.5.7</a></td>
+  <td><a href="http://tclkit.googlecode.com/files/tclkit-8.5.8-win32-x86_64.zip">8.5.8</a></td>
   <td>8.4.17</td>
-  <td><a href="http://tclkit.googlecode.com/files/tclkitsh-8.5.7-win32-x86_64.zip">8.5.7</a></td></tr>
+  <td><a href="http://tclkit.googlecode.com/files/tclkitsh-8.5.8-win32-x86_64.zip">8.5.8</a></td></tr>
 <tr><td colspan="5">*Linux*</td></tr>
 <tr><td>ARM</td><td>8.4.18</td><td>8.5.2</td></tr>
 <tr><td>ix86</td>
