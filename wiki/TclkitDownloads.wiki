@@ -24,7 +24,7 @@
 <tr><td>ARM</td><td>8.4.18</td><td>8.5.2</td></tr>
 <tr><td>ix86</td>
     <td>8.4.18</td>
-    <td><a href="http://tclkit.googlecode.com/files/tclkit-8.5.7-linux-ix86.gz">8.5.7</a></td></tr> 			
+    <td><a href="http://tclkit.googlecode.com/files/tclkit-8.5.8-linux-ix86.gz">8.5.8</a></td></tr> 			
 <tr><td>amd64</td><td>8.4.18</td><td>8.5.1</td></tr>
 <tr><td colspan="5">*MacOS X*</td></tr>
 <tr><td>Aqua (Univ)</td><td>8.4.18</td><td>8.5.1</td></tr>
