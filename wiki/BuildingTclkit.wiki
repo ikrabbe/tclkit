@@ -28,7 +28,7 @@ upx is useful to create smaller executables and may be used if present.
 
 == Obtaining kitgen ==
 
-kitgen is currently managed using <a href="http://git-scm.com/">git</a>. Snapshots of the current version can be downloaded <a href="http://github.com/patthoyts/kitgen/archives/master">from github</a> and the site will ofefer either zip or tar.gz archives for download. Alternatively the git repository can be cloned from using git from git://github.com/patthoyts/kitgen.git
+kitgen is currently managed using <a href="http://git-scm.com/">git</a>. Snapshots of the current version can be downloaded <a href="http://github.com/patthoyts/kitgen/archives/master">from github</a> and the site will offer either zip or tar.gz archives for download. Alternatively the git repository can be cloned from using git from git://github.com/patthoyts/kitgen.git
 
 == Configuring the build tree ==
 
