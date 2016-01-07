@@ -25,6 +25,7 @@ Telindustries in the US, Steve Blinkhorn in the UK, and after them an increasing
 
 Many thanks also to a growing team of people who have contributed builds of Tclkit for various platforms - it wouldn't be in all those places without their help:
 
+<pre style="font-family:serif">
 Reinhard Max
 Daniel Steffen
 Steve Landers
@@ -37,3 +38,5 @@ David Zolli
 Paul Obermeier
 Pat Thoyts
 ... with apologies if I forgot anyone!
+</pre>
+
